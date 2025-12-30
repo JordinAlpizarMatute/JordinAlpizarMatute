@@ -1,7 +1,9 @@
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p><p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Matute!;I'm+a+learning+developer...;I'm+a+PS5+Games+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Matute!;I'm+a+learning+developer...;I'm+a+PS5+Games+fan;And+I'm+a+proud+GitHub+user" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
